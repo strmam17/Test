@@ -12,3 +12,6 @@ Länder sortieren nach Einwohnerzahl:
   1. Deutschland
   2. Tschechien
   3. Österreich
+  4. Slowenien
+     * Marburg
+     * Laibach
