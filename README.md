@@ -7,6 +7,7 @@ Liste:
 * Bmw
 * Mercedes
 * Renault
+* Skoda
 
 Länder sortieren nach Einwohnerzahl:
   1. Deutschland
